@@ -1,1 +1,1 @@
-# obs-scene-switcher
+# OBS scene switcher python script
